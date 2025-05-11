@@ -1,0 +1,9 @@
+NAME="Nogeese Linux"
+PRETTY_NAME="Nogeese Linux Rolling"
+ID=nogeeselinux
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://linux.leon8326.org/"
+DOCUMENTATION_URL="https://wiki.leon8326.org/"
+LOGO=archlinux
+
